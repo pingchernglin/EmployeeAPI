@@ -1,4 +1,4 @@
-/Users/ping-chernglin/employee/src/main/java/funpodium/employee/controller/EmployeeController.java
-/Users/ping-chernglin/employee/src/main/java/funpodium/employee/model/Employee.java
-/Users/ping-chernglin/employee/src/main/java/funpodium/employee/repository/EmployeeRepository.java
-/Users/ping-chernglin/employee/src/main/java/funpodium/employee/EmployeeApplication.java
+/Users/ping-chernglin/EmployeeAPI/src/main/java/funpodium/employee/EmployeeApplication.java
+/Users/ping-chernglin/EmployeeAPI/src/main/java/funpodium/employee/model/Employee.java
+/Users/ping-chernglin/EmployeeAPI/src/main/java/funpodium/employee/controller/EmployeeController.java
+/Users/ping-chernglin/EmployeeAPI/src/main/java/funpodium/employee/repository/EmployeeRepository.java
